@@ -1,5 +1,5 @@
 
-# 👩‍💻 About Me:
+## 👩‍💻 About Me:
 
 - Hi, mi name is Sofia a Systems Engineering Student | Programming Enthusiast 🚀
 
@@ -9,9 +9,9 @@
 - 💬 Ask me about Java, Spring Boot, Django, and Python.
 - ⚡ Fun fact: I scored over 1600 points on my university's Senecode Python exercise platform.
 
-# 💻 Technologies Stack
+## 💻 Technologies Stack
 
-# 📲 Contact Me:
+## 📲 Contact Me:
 
 <a href="mailto:as.rozo@uniandes.edu.co" target="_blank">
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt=as.rozo@uniandes.edu.co mail style="margin-bottom: 5px;" />
