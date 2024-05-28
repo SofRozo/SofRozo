@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Your text is well-written, but there are a few minor adjustments to improve clarity and correctness. Here's a revised version:
+
+# 💫 About Me:
+- 🔭 I’m currently working on a project at **SpaceTech - Universidad de los Andes**, focusing on backend development with FastAPI.
+- 🌱 I’m currently learning how to build **mobile apps** with Flutter.
+- 👯 I’m looking to collaborate on **AI projects**.
+- 💬 Ask me about Java, Spring Boot, Django, and Python.
+- ⚡ Fun fact: I scored over 1600 points on my university's Senecode Python exercise platform.
