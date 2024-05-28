@@ -9,6 +9,8 @@
 - 💬 Ask me about Java, Spring Boot, Django, and Python.
 - ⚡ Fun fact: I scored over 1600 points on my university's Senecode Python exercise platform.
 
+# 💻 Technologies Stack
+
 # 📲 Contact Me:
 
 <a href="mailto:as.rozo@uniandes.edu.co" target="_blank">
