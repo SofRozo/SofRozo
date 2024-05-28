@@ -1,5 +1,8 @@
 
 # 👩‍💻 About Me:
+
+- Hi, mi name is Sofia a Systems Engineering Student | Programming Enthusiast 🚀
+
 - 🔭 I’m currently working on a project at **SpaceTech - Universidad de los Andes**, focusing on backend development with FastAPI.
 - 🌱 I’m currently learning how to build **mobile apps** with Flutter.
 - 👯 I’m looking to collaborate on **AI projects**.
