@@ -1,13 +1,13 @@
-
 ## 👩‍💻 About Me:
 
-- Hi, mi name is Sofia a Systems Engineering Student | AI Enthusiast 🚀
+- Hi, my name is Sofia — a Systems Engineering student and **AI enthusiast** 🚀  
+- 🔬 I’m currently involved in an **undergraduate research project** with the **Biomedical Engineering Department** at *Universidad de los Andes*, where we’re applying **differential privacy techniques** to machine learning models for physiological signal analysis.  
+- 🛰️ I’m also working at **SpaceTech - Universidad de los Andes**, focusing on **backend development** with FastAPI.  
+- 🌱 I’m currently learning how to build **web apps** using React.  
+- 👯 I’m looking to collaborate on **AI, ML and Cybersecurity projects**.  
+- 💬 Ask me about Machine Learning, AI, Python for Data Science, and tools like Scikit-learn, TensorFlow, and Pandas.
+- ⚡ Fun fact: I scored over **1600 points** on my university’s Senecode Python exercise platform.
 
-- 🔭 I’m currently working on a project at **SpaceTech - Universidad de los Andes**, focusing on backend development with FastAPI.
-- 🌱 I’m currently learning how to build **web apps** with React.
-- 👯 I’m looking to collaborate on **AI, ML projects**.
-- 💬 Ask me about Java, Spring Boot, Django, and Python.
-- ⚡ Fun fact: I scored over 1600 points on my university's Senecode Python exercise platform.
 
 ## 📲 Contact Me:
 
