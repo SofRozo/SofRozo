@@ -1,12 +1,11 @@
 ## 👩‍💻 About Me:
 
-- Hi, my name is Sofia — a Systems Engineering student and **AI enthusiast** 🚀  
-- 🔬 I’m currently involved in an **undergraduate research project** with the **Biomedical Engineering Department** at *Universidad de los Andes*, where we’re applying **differential privacy techniques** to machine learning models for physiological signal analysis.    
-- 🌱 I’m currently learning how to build **web apps** using React.  
-- 👯 I’m looking to collaborate on **AI, ML and Cybersecurity projects**.  
-- 💬 Ask me about Machine Learning, AI, Python for Data Science, and tools like Scikit-learn, TensorFlow, and Pandas.
-- ⚡ Fun fact: I scored over **1600 points** on my university’s Senecode Python exercise platform.
-
+* Hi, my name is **Sofía** — a Systems Engineering student and **AI enthusiast** 🚀
+* 🔬 I’m currently a **Visiting Student Intern** at Purdue University (College of Engineering), working on computational nanotechnology and high-performance computing.
+* 🤝 I love participating in **hackathons**, where I get to combine creativity, teamwork, and AI to build impactful solutions.
+* 👯 I’m looking to collaborate on **AI, ML, and Cybersecurity projects**.
+* 💬 Ask me about Machine Learning, AI, Python for Data Science, and tools like Scikit-learn, TensorFlow, and Pandas.
+* ⚡ Fun fact: I scored over **1600 points** on my university’s *Senecode* Python exercise platform.
 
 ## 📲 Contact Me:
 
