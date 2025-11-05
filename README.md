@@ -1,7 +1,7 @@
 ## 👩‍💻 About Me:
 
 * Hi, my name is **Sofía** — a Systems Engineering student and **AI enthusiast** 🚀
-* 🔬 I’m currently a **Visiting Student Intern** at Purdue University (College of Engineering), working on computational nanotechnology and high-performance computing.
+* 🔬 I’m currently a **Research Intern** at Purdue University (College of Engineering), working on computational nanotechnology and high-performance computing.
 * 🤝 I love participating in **hackathons**, where I get to combine creativity, teamwork, and AI to build impactful solutions.
 * 👯 I’m looking to collaborate on **AI, ML, and Cybersecurity projects**.
 * 💬 Ask me about Machine Learning, AI, Python for Data Science, and tools like Scikit-learn, TensorFlow, and Pandas.
